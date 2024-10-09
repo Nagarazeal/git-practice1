@@ -1,1 +1,3 @@
 #!/bin/bash
+# cntrl+s ....>to save
+echo "hello world"
